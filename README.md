@@ -1,2 +1,2 @@
 # Projects-Unity
-This repositary has the function of be a backup for all of my unity projects developed
+This repository has the function of be a backup for all of my unity projects developed
